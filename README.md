@@ -1,4 +1,4 @@
-# ScetchUp-v22
+# SketchUp-v22
 
 #░M░A░D░E░ ░B░Y░
 #░D░D░O░S░R░O░O░T░
